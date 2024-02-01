@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FYP-WebPage/static/css/main.e526438b.css",
-    "main.js": "/FYP-WebPage/static/js/main.1e9ffd39.js",
+    "main.js": "/FYP-WebPage/static/js/main.d392e314.js",
     "static/js/592.aab0e518.chunk.js": "/FYP-WebPage/static/js/592.aab0e518.chunk.js",
     "static/media/logo.svg": "/FYP-WebPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FYP-WebPage/index.html",
     "main.e526438b.css.map": "/FYP-WebPage/static/css/main.e526438b.css.map",
-    "main.1e9ffd39.js.map": "/FYP-WebPage/static/js/main.1e9ffd39.js.map",
+    "main.d392e314.js.map": "/FYP-WebPage/static/js/main.d392e314.js.map",
     "592.aab0e518.chunk.js.map": "/FYP-WebPage/static/js/592.aab0e518.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e526438b.css",
-    "static/js/main.1e9ffd39.js"
+    "static/js/main.d392e314.js"
   ]
 }
