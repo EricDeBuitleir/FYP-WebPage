@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Eric Butler (20094078) </h1>
-        <h7> (Automotive & Automation)</h7>
+        <h7> Computer Science (Automotive & Automation)</h7>
 <p>This is my landing page for my final year project 2023-24.</p>
 <h2> Poster </h2>
 <p> Link to poster: TODO</p>
