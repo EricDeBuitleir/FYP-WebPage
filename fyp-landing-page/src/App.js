@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="fyp-landing-page\public\fypSelfImage.jpg" className="App-logo" alt="logo" />
         <h1>Eric Butler (20094078) </h1>
         <h7> Computer Science (Automotive & Automation)</h7>
 <p>This is my landing page for my final year project 2023-24.</p>
