@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="fyp-landing-page\public\fypSelfImage.jpg" className="App-logo" alt="logo" />
+        <img src="../public/fypSelfImage.jpg" className="App-image" alt="logo" />
         <h1>Eric Butler (20094078) </h1>
         <h7> Computer Science (Automotive & Automation)</h7>
 <p>This is my landing page for my final year project 2023-24.</p>
