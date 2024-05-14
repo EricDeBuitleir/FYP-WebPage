@@ -22,7 +22,7 @@ function Home() {
     <header className="App-header">
       <img src={`${process.env.PUBLIC_URL}/static/fypSelfImage.jpg`} className="App-image" alt="logo" />
       <h1>Eric Butler (20094078)</h1>
-      <h7>Computer Science (Automotive & Automation)</h7>
+      <h7>Applied Computing (Automotive & Automation)</h7>
       <p>This is my landing page for my final year project 2023-24.</p>
       <h2>Poster</h2>
       <p>
