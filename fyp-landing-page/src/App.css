@@ -98,3 +98,21 @@ header {
   margin: 0 auto; /* Centers the button horizontally */
   margin-top: 20px; /* Adds some space between the poster image and the button */
 }
+
+/* App.css */
+
+/* Add this CSS for fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-in-out;
+}
+
+

@@ -17,6 +17,7 @@ function App() {
 }
 
 function Home() {
+  
   return (
     <header className="App-header">
       <img src={`${process.env.PUBLIC_URL}/static/fypSelfImage.jpg`} className="App-image" alt="logo" />
