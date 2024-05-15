@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FYP-WebPage/static/css/main.183718cf.css",
-    "main.js": "/FYP-WebPage/static/js/main.2f957681.js",
+    "main.js": "/FYP-WebPage/static/js/main.fac0f8fc.js",
     "index.html": "/FYP-WebPage/index.html",
     "main.183718cf.css.map": "/FYP-WebPage/static/css/main.183718cf.css.map",
-    "main.2f957681.js.map": "/FYP-WebPage/static/js/main.2f957681.js.map"
+    "main.fac0f8fc.js.map": "/FYP-WebPage/static/js/main.fac0f8fc.js.map"
   },
   "entrypoints": [
     "static/css/main.183718cf.css",
-    "static/js/main.2f957681.js"
+    "static/js/main.fac0f8fc.js"
   ]
 }
