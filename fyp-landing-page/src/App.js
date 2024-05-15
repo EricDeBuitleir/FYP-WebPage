@@ -36,7 +36,7 @@ function Home() {
 
       <a
           className="Video-link" 
-          href="https://www.youtube.com/watch?v=9IlrXLb528k&t=1s&ab_channel=EricButler"
+          href="https://www.youtube.com/watch?v=fA5GzF7nUaM&ab_channel=EricButler"
           target="_blank"
           rel="noopener noreferrer"
         >
